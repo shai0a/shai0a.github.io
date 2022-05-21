@@ -3,3 +3,8 @@ publishDir = 'docs'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = 'm10c'
+
+[[params.social]]
+  icon = "github"
+  name = "My Github"
+  url = "https://github.com/shai0a"
