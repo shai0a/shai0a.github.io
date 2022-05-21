@@ -4,6 +4,18 @@ languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = 'm10c'
 
+[menu]
+  [[menu.main]]
+    identifier = "home"
+    name = "Home"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    identifier = "tags"
+    name = "Tags"
+    url = "/tags/"
+    weight = 2
+
 [[params.social]]
   icon = "github"
   name = "My Github"
