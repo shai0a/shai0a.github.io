@@ -20,3 +20,9 @@ theme = 'm10c'
   icon = "github"
   name = "My Github"
   url = "https://github.com/shai0a"
+
+[[params.social]]
+  icon = "gitlab"
+  name = "My GitLab"
+  url = "https://gitlab.com/users/rfz0/projects"
+
