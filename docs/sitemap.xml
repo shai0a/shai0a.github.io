@@ -2,11 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://shai0a.github.io/posts/setup/</loc>
+    <lastmod>2022-05-28T12:04:56-05:00</lastmod>
+  </url><url>
     <loc>https://shai0a.github.io/</loc>
-    <lastmod>2022-05-16T11:26:41-05:00</lastmod>
+    <lastmod>2022-05-28T12:04:56-05:00</lastmod>
   </url><url>
     <loc>https://shai0a.github.io/posts/</loc>
-    <lastmod>2022-05-16T11:26:41-05:00</lastmod>
+    <lastmod>2022-05-28T12:04:56-05:00</lastmod>
   </url><url>
     <loc>https://shai0a.github.io/posts/test/</loc>
     <lastmod>2022-05-16T11:26:41-05:00</lastmod>
