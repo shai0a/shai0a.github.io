@@ -1,7 +1,7 @@
 baseURL = 'https://shai0a.github.io/'
 publishDir = 'docs'
 languageCode = 'en-us'
-title = 'My Site'
+title = 'My Page'
 theme = 'm10c'
 
 [menu]
